@@ -3,3 +3,17 @@
 ################################################################################
 
 /JSLib/.vs
+/JSLib/src/JSLib/app/app
+/JSLib/src/JSLib/app/node_modules/@angular
+/JSLib/src/JSLib/bin/Debug/netcoreapp1.0
+/JSLib/src/JSLib/dist
+/JSLib/src/JSLib/node_modules
+/JSLib/src/JSLib/wwwroot/scripts
+/JSLib/src/JSLib/app/app.component.js
+/JSLib/src/JSLib/app/app.module.js
+/JSLib/src/JSLib/app/main.js
+/JSLib/src/JSLib/obj/Debug
+/JSLib/src/JSLib/typings
+/JSLib/src/JSLib/Scripts
+/JSLib/src/JSLib/wwwroot/css
+/JSLib/src/JSLib/wwwroot/images
